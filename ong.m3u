@@ -13,3 +13,5 @@ http://93.157.62.180/KanalD/index.m3u8
 https://livex458745.livestreamlive.xyz/a2.m3u8
 #EXTINF:-1 tvg-id="KANAL.7.HD.tr" tvg-name="Kanal 7" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/ce2fa5d6-80be-4db3-88cc-493a8a3ea655.png" group-title="Turkey",Kanal 7
 https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
+#EXTINF:-1 tvg-id="BOOMERANG.HD.tr" tvg-name="Boomerang" tvg-logo="https://i.ibb.co/4WsFbpW/boomerangb.png" group-title="Turkey",Boomerang
+http://190.115.29.22:8080/carter/GUV1bMq2VK/21135
