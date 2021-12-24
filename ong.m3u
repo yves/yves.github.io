@@ -1,9 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Fox TV" tvg-logo="" group-title="Turkey",Fox TV
+#EXTINF:-1 tvg-id="FOX.HD.tr" tvg-name="Fox TV" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/e79397a0-ec34-41aa-97b5-9323f1296383.png" group-title="Turkey",Fox TV
 http://93.157.62.180/FoxTurk/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Show TV" tvg-logo="" group-title="Turkey",Show TV
+#EXTINF:-1 tvg-id="Show.TV.HD.tr" tvg-name="Show TV" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/b3962b16-26f7-4e71-a107-c45652bd5442.png" group-title="Turkey",Show TV
 http://93.157.62.180/ShowTV/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Star TV" tvg-logo="" group-title="Turkey",Star TV
+#EXTINF:-1 tvg-id="Star.TV.HD.tr" tvg-name="Star TV" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/7149537c-dd50-4b7e-a042-9f7b45f4f136.png" group-title="Turkey",Star TV
 http://93.157.62.180/StarTurk/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A TV" tvg-logo="" group-title="Turkey",A TV
+#EXTINF:-1 tvg-id="ATV.HD.tr" tvg-name="A TV" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/0d3f32ba-3304-4397-b6e5-116d482b0731.png" group-title="Turkey",A TV
 https://trkvz-live.daioncdn.net/atv/atv.m3u8
+#EXTINF:-1 tvg-id="Kanal.D.HD.tr" tvg-name="Kanal D" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/1cf4d482-3dcb-4e21-b187-0f3985e80013.png" group-title="Turkey",Kanal D
+http://93.157.62.180/KanalD/index.m3u8
+#EXTINF:-1 tvg-id="A2.HD.tr" tvg-name="A2" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/dca19bc0-70f5-4bd5-9132-ae7cf4c26867.png" group-title="Turkey",A2
+https://livex458745.livestreamlive.xyz/a2.m3u8
+#EXTINF:-1 tvg-id="KANAL.7.HD.tr" tvg-name="Kanal 7" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/ce2fa5d6-80be-4db3-88cc-493a8a3ea655.png" group-title="Turkey",Kanal 7
+https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
