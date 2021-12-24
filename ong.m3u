@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Fox TV" tvg-logo="" group-title="Turkey",Fox TV
+http://93.157.62.180/FoxTurk/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Show TV" tvg-logo="" group-title="Turkey",Show TV
+http://93.157.62.180/ShowTV/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star TV" tvg-logo="" group-title="Turkey",Star TV
+http://93.157.62.180/StarTurk/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A TV" tvg-logo="" group-title="Turkey",A TV
+https://trkvz-live.daioncdn.net/atv/atv.m3u8
