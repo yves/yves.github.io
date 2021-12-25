@@ -1,0 +1,821 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="none" generator-info-url="none">
+  <channel id="beIN.HD.tr">
+    <display-name lang="tr">beIN HD</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/483/Image/72x44_beinhd.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/483/Image/72x44_beinhd.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="beIN.SERIES.SCI-FI.HD.tr">
+    <display-name lang="tr">beIN SERIES SCI-FI HD</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/375/Image/70x46_series_sci_fi_hd_agu2017.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/375/Image/70x46_series_sci_fi_hd_agu2017.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="beIN.SERIES.COMEDY.HD.tr">
+    <display-name lang="tr">beIN SERIES COMEDY HD</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/326/Image/70x46_series_comedy_hd_agu2017.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/326/Image/70x46_series_comedy_hd_agu2017.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="beIN.SERIES.VICE.HD.tr">
+    <display-name lang="tr">beIN SERIES VICE HD</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/255/Image/70x46_series_vice_hd_agu2017.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/255/Image/70x46_series_vice_hd_agu2017.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="beIN.SERIES.DRAMA.HD.tr">
+    <display-name lang="tr">beIN SERIES DRAMA HD</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/263/Image/70x46_series_drama_hd_agu2017.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/263/Image/70x46_series_drama_hd_agu2017.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="beIN.MOVIES.PREMIERE.HD.tr">
+    <display-name lang="tr">beIN MOVIES PREMIERE HD</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/271/Image/70x46_premier_hd_agu2017.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/271/Image/70x46_premier_hd_agu2017.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="beIN.MOVIES.PREMIERE.2.HD.tr">
+    <display-name lang="tr">beIN MOVIES PREMIERE 2 HD</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/327/Image/70x46_premier2_hd_agu2017.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/327/Image/70x46_premier2_hd_agu2017.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="beIN.MOVIES.STARS.HD.tr">
+    <display-name lang="tr">beIN MOVIES STARS HD</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/272/Image/70x46_stars_hd_agu2017.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/272/Image/70x46_stars_hd_agu2017.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="beIN.MOVIES.ACTION.HD.tr">
+    <display-name lang="tr">beIN MOVIES ACTION HD</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/453/Image/70x46_action_hd_agu2017.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/453/Image/70x46_action_hd_agu2017.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="beIN.MOVIES.ACTION.2.HD.tr">
+    <display-name lang="tr">beIN MOVIES ACTION 2 HD</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/454/Image/70x46_action2_hd_agu2017.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/454/Image/70x46_action2_hd_agu2017.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="beIN.MOVIES.FAMILY.HD.tr">
+    <display-name lang="tr">beIN MOVIES FAMILY HD</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/335/Image/70x46_family_hd_agu2017.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/335/Image/70x46_family_hd_agu2017.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="beIN.MOVIES.TURK.HD.tr">
+    <display-name lang="tr">beIN MOVIES TURK HD</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/381/Image/70x46_turk_hd_agu2017.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/381/Image/70x46_turk_hd_agu2017.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="beIN.İZ.HD.tr">
+    <display-name lang="tr">beIN İZ HD</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/299/Image/izhd-70x46.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/299/Image/izhd-70x46.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="beIN.HOME.And.ENTERTAINMENT.HD.tr">
+    <display-name lang="tr">beIN HOME And ENTERTAINMENT HD</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/456/Image/hehd-70x46.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/456/Image/hehd-70x46.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="beIN.GURME.HD.tr">
+    <display-name lang="tr">beIN GURME HD</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/407/Image/gurmehd-70x46.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/407/Image/gurmehd-70x46.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="Show.TV.HD.tr">
+    <display-name lang="tr">Show TV HD</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/294/Image/showtvhd.gif" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/294/Image/showtvhd.gif" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="TRT.1.HD.tr">
+    <display-name lang="tr">TRT 1 HD</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/19/Image/70x46_trt1.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/19/Image/70x46_trt1.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="Kanal.D.HD.tr">
+    <display-name lang="tr">Kanal D HD</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/430/Image/70x46.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/430/Image/70x46.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="ATV.HD.tr">
+    <display-name lang="tr">ATV HD</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/300/Image/atvhd.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/300/Image/atvhd.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="FOX.HD.tr">
+    <display-name lang="tr">FOX HD</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/18/Image/fox_70x36.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/18/Image/fox_70x36.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="Star.TV.HD.tr">
+    <display-name lang="tr">Star TV HD</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/406/Image/70x46_startv_hd.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/406/Image/70x46_startv_hd.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="TV8.HD.tr">
+    <display-name lang="tr">TV8 HD</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/428/Image/70x46_tv8hd.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/428/Image/70x46_tv8hd.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="360.HD.tr">
+    <display-name lang="tr">360 HD</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/30/Image/72x44_360tv_ekm2019.jpg" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/30/Image/72x44_360tv_ekm2019.jpg" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="TLC.HD.tr">
+    <display-name lang="tr">TLC HD</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/23/Image/50x50_tlc.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/23/Image/50x50_tlc.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="Bloomberg.HT.HD.tr">
+    <display-name lang="tr">Bloomberg HT HD</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/24/Image/Bloomberg-HT.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/24/Image/Bloomberg-HT.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="A.Haber.HD.tr">
+    <display-name lang="tr">A Haber HD</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/301/Image/ahaber_h2018_72x44.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/301/Image/ahaber_h2018_72x44.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="TRT.Haber.HD.tr">
+    <display-name lang="tr">TRT Haber HD</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/20/Image/trthaberhd-70x46_haz2018.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/20/Image/trthaberhd-70x46_haz2018.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="KANAL.7.HD.tr">
+    <display-name lang="tr">KANAL 7 HD</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/439/Image/70x46.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/439/Image/70x46.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="A2.HD.tr">
+    <display-name lang="tr">A2</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/490/Image/a2_70x46.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/490/Image/a2_70x46.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="BEYAZ.TV.HD.tr">
+    <display-name lang="tr">BEYAZ TV HD</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/188/Image/70x46_beyaztv_hd[1].png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/188/Image/70x46_beyaztv_hd[1].png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="TV.100.HD.tr">
+    <display-name lang="tr">TV 100 HD</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/527/Image/72x44_tv100.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/527/Image/72x44_tv100.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="Ülke.TV.HD.tr">
+    <display-name lang="tr">Ülke TV HD</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/166/Image/uulketv_70x46.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/166/Image/uulketv_70x46.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="TVNET.HD.tr">
+    <display-name lang="tr">TVNET HD</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/222/Image/70x46_tvnet.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/222/Image/70x46_tvnet.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="KANAL.24.HD.tr">
+    <display-name lang="tr">KANAL 24 HD</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/178/Image/72x46_24tv.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/178/Image/72x46_24tv.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="NTV.HD.tr">
+    <display-name lang="tr">NTV HD</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/28/Image/NTV.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/28/Image/NTV.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="CNN.TÜRK.HD.tr">
+    <display-name lang="tr">CNN TÜRK HD</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/29/Image/cnn-turk.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/29/Image/cnn-turk.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="A.Para.HD.tr">
+    <display-name lang="tr">A Para HD</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/519/Image/70x46_apara.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/519/Image/70x46_apara.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="HABERTURK.HD.tr">
+    <display-name lang="tr">HABERTURK HD</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/31/Image/haberturk-70x46.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/31/Image/haberturk-70x46.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="TGRT.Haber.HD.tr">
+    <display-name lang="tr">TGRT Haber HD</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/84/Image/45_tgrt_haber_siyah.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/84/Image/45_tgrt_haber_siyah.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="EKOTÜRK.TV.HD.tr">
+    <display-name lang="tr">EKOTÜRK TV HD</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/521/Image/70x46_ekoturk.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/521/Image/70x46_ekoturk.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="HABER.GLOBAL.HD.tr">
+    <display-name lang="tr">HABER GLOBAL HD</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/520/Image/hg_72x44_eyl2020.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/520/Image/hg_72x44_eyl2020.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="TELE.1.HD.tr">
+    <display-name lang="tr">TELE 1 HD</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/525/Image/72x44_tele1.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/525/Image/72x44_tele1.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="DMAX.HD.tr">
+    <display-name lang="tr">DMAX HD</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/212/Image/72x46_dmax.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/212/Image/72x46_dmax.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="Uçan.Kuş.TV.tr">
+    <display-name lang="tr">Uçan Kuş TV</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/534/Image/ucan_kus_70x46.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="Halk.TV.tr">
+    <display-name lang="tr">Halk TV</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/298/Image/70x46_halktv.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/298/Image/70x46_halktv.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="Teve2.HD.tr">
+    <display-name lang="tr">Teve2 HD</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/256/Image/70x46_tv2.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/256/Image/70x46_tv2.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="TRT.3.-.TRT.Spor.tr">
+    <display-name lang="tr">TRT 3 - TRT Spor</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/229/Image/70x46_trt3.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/229/Image/70x46_trt3.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="TRT.AVAZ.tr">
+    <display-name lang="tr">TRT AVAZ</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/244/Image/70x46_trt_avaz.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/244/Image/70x46_trt_avaz.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="TRT.Kurdi.tr">
+    <display-name lang="tr">TRT Kurdi</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/246/Image/70x46_trtkurdi.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/246/Image/70x46_trtkurdi.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="TRT.TURK.tr">
+    <display-name lang="tr">TRT TURK</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/245/Image/trt_turk_70x46.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/245/Image/trt_turk_70x46.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="KRT.TV.HD.tr">
+    <display-name lang="tr">KRT TV HD</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/528/Image/72x44_krt_may2019.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/528/Image/72x44_krt_may2019.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="TRT.2.HD.tr">
+    <display-name lang="tr">TRT 2 HD</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/308/Image/trt_2_70x36.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/308/Image/trt_2_70x36.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="Diyanet.TV.HD.tr">
+    <display-name lang="tr">Diyanet TV HD</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/332/Image/70x46_diyanettv.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/332/Image/70x46_diyanettv.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="Eurosport.1.HD.tr">
+    <display-name lang="tr">Eurosport 1 HD</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/47/Image/70x46_eurosport1_hd.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/47/Image/70x46_eurosport1_hd.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="Eurosport.2.HD.tr">
+    <display-name lang="tr">Eurosport 2 HD</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/82/Image/eurosports2_hd_72x46_haz201.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/82/Image/eurosports2_hd_72x46_haz201.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="GS.TV.HD.tr">
+    <display-name lang="tr">GS TV HD</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/250/Image/gs_tv.gif" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/250/Image/gs_tv.gif" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="FB.TV.HD.tr">
+    <display-name lang="tr">FB TV HD</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/55/Image/FB-TV.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/55/Image/FB-TV.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="beIN.SPORTS.HD.1.tr">
+    <display-name lang="tr">beIN SPORTS HD 1</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/193/Image/beinsports1-hd-70x46.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/193/Image/beinsports1-hd-70x46.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="beIN.SPORTS.HD.2.tr">
+    <display-name lang="tr">beIN SPORTS HD 2</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/310/Image/beinsports2-hd-70x46.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/310/Image/beinsports2-hd-70x46.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="beIN.SPORTS.HD.3.tr">
+    <display-name lang="tr">beIN SPORTS HD 3</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/312/Image/beinsports3-hd-70x46.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/312/Image/beinsports3-hd-70x46.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="beIN.SPORTS.HD.4.tr">
+    <display-name lang="tr">beIN SPORTS HD 4</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/495/Image/beinsports4-hd-70x46.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/495/Image/beinsports4-hd-70x46.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="beIN.SPORTS.MAX.1.HD.tr">
+    <display-name lang="tr">beIN SPORTS MAX 1 HD</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/506/Image/beinsports1max-hd-70x46.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/506/Image/beinsports1max-hd-70x46.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="beIN.SPORTS.MAX.2.HD.tr">
+    <display-name lang="tr">beIN SPORTS MAX 2 HD</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/507/Image/beinsports2max-hd-70x46.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/507/Image/beinsports2max-hd-70x46.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="beIN.SPORTS.HABER.HD.tr">
+    <display-name lang="tr">beIN SPORTS HABER HD</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/508/Image/beinsports_haber-hd-70x46.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/508/Image/beinsports_haber-hd-70x46.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="TRT.SPOR.HD.tr">
+    <display-name lang="tr">TRT SPOR HD</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/331/Image/70x46_trt_sports_hd[1].png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/331/Image/70x46_trt_sports_hd[1].png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="TRT.Spor.2.HD.tr">
+    <display-name lang="tr">TRT Spor 2 HD</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/533/Image/70x46_trtspor_ekm2019.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/533/Image/70x46_trtspor_ekm2019.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="A.Spor.HD.tr">
+    <display-name lang="tr">A Spor HD</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/433/Image/aspor_haz2018_72x44.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/433/Image/aspor_haz2018_72x44.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="TJK.TV.tr">
+    <display-name lang="tr">TJK TV</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/53/Image/TJK-TV.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/53/Image/TJK-TV.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="MCM.Top.HD.tr">
+    <display-name lang="tr">MCM Top HD</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/60/Image/MCM-Top.gif" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/60/Image/MCM-Top.gif" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="Mezzo.HD.tr">
+    <display-name lang="tr">Mezzo HD</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/61/Image/mezzo_haz2020.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/61/Image/mezzo_haz2020.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="VH1.tr">
+    <display-name lang="tr">VH1</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/63/Image/VH1.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/63/Image/VH1.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="TRT.Müzik.tr">
+    <display-name lang="tr">TRT Müzik</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/261/Image/70x46_trtmuzik.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/261/Image/70x46_trtmuzik.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="MTV.Live.HD.tr">
+    <display-name lang="tr">MTV Live HD</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/322/Image/70x46_mtv_hd.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/322/Image/70x46_mtv_hd.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="MTV.Hits.tr">
+    <display-name lang="tr">MTV Hits</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/337/Image/70x46_mtv_hits.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/337/Image/70x46_mtv_hits.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="Fashion.TV.HD.tr">
+    <display-name lang="tr">Fashion TV HD</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/74/Image/70x46_fashion.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/74/Image/70x46_fashion.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="BBC.First.tr">
+    <display-name lang="tr">BBC First</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/459/Image/bbc_first_70x46.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/459/Image/bbc_first_70x46.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="BBC.Entertainment.tr">
+    <display-name lang="tr">BBC Entertainment</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/88/Image/bbc-entertainment-50-50.gif" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/88/Image/bbc-entertainment-50-50.gif" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="RAI.UNO.tr">
+    <display-name lang="tr">RAI UNO</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/85/Image/rai-uno-50-50.gif" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/85/Image/rai-uno-50-50.gif" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="TV5.Monde.Europe.tr">
+    <display-name lang="tr">TV5 Monde Europe</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/86/Image/TV5Monde.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/86/Image/TV5Monde.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="TRT.Arabi.tr">
+    <display-name lang="tr">TRT Arabi</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/262/Image/trt_arap_72x56.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/262/Image/trt_arap_72x56.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="CGTN.HD.tr">
+    <display-name lang="tr">CGTN HD</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/523/Image/72x56_cgtn.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/523/Image/72x56_cgtn.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="RTR.PLANETA.tr">
+    <display-name lang="tr">RTR PLANETA</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/369/Image/70x46_planeta.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/369/Image/70x46_planeta.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="BLOOMBERG.HD.tr">
+    <display-name lang="tr">BLOOMBERG HD</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/137/Image/BLOOMBERG-Television.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/137/Image/BLOOMBERG-Television.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="A.News.HD.tr">
+    <display-name lang="tr">A News HD</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/501/Image/70x46.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/501/Image/70x46.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="BBC.World.News.HD.tr">
+    <display-name lang="tr">BBC World News HD</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/77/Image/BBC-World-News.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/77/Image/BBC-World-News.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="TRT.World.HD.tr">
+    <display-name lang="tr">TRT World HD</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/468/Image/70x46_trt_world.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/468/Image/70x46_trt_world.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="CNN.INTERNATIONAL.tr">
+    <display-name lang="tr">CNN INTERNATIONAL</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/76/Image/70x46_cnn.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/76/Image/70x46_cnn.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="AL.JAZEERA.ENGLISH.HD.tr">
+    <display-name lang="tr">AL JAZEERA ENGLISH HD</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/182/Image/Al-Jazeera.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/182/Image/Al-Jazeera.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="EURONEWS.tr">
+    <display-name lang="tr">EURONEWS</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/78/Image/euronews-70x46.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/78/Image/euronews-70x46.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="France.24.HD.tr">
+    <display-name lang="tr">France 24 HD</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/285/Image/France-24.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/285/Image/France-24.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="Al.Quran.Al.Kareem.TV.HD.tr">
+    <display-name lang="tr">Al Quran Al Kareem TV HD</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/477/Image/Saudi-Quran-70x46.jpg" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/477/Image/Saudi-Quran-70x46.jpg" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="Al.Sunnah.Al.Nabawiyah.TV.HD.tr">
+    <display-name lang="tr">Al Sunnah Al Nabawiyah TV HD</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/478/Image/saudi_sunnah-70x46.jpg" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/478/Image/saudi_sunnah-70x46.jpg" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="TRT.EBATV.İLKOKUL.HD.tr">
+    <display-name lang="tr">TRT EBATV İLKOKUL HD</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/536/Image/eba_tv_ilkokul_72x44.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/536/Image/eba_tv_ilkokul_72x44.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="TRT.EBATV.ORTAOKUL.HD.tr">
+    <display-name lang="tr">TRT EBATV ORTAOKUL HD</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/537/Image/eba_tv_ortaokul_72x44.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/537/Image/eba_tv_ortaokul_72x44.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="TRT.EBATV.LİSE.HD.tr">
+    <display-name lang="tr">TRT EBATV LİSE HD</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/538/Image/eba_tv_lise_72x44.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/538/Image/eba_tv_lise_72x44.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="TRT.Çocuk.tr">
+    <display-name lang="tr">TRT Çocuk</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/243/Image/TRT-Cocuk.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/243/Image/TRT-Cocuk.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="CBEEBIES.HD.tr">
+    <display-name lang="tr">CBEEBIES HD</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/512/Image/72x56_cbeebies.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/512/Image/72x56_cbeebies.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="Baby.TV.tr">
+    <display-name lang="tr">Baby TV</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/436/Image/70x46.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/436/Image/70x46.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="Da.Vinci.tr">
+    <display-name lang="tr">Da Vinci</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/529/Image/davinci_70x46.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/529/Image/davinci_70x46.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="Disney.Junior.tr">
+    <display-name lang="tr">Disney Junior</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/282/Image/70x46_disneyjr.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/282/Image/70x46_disneyjr.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="Disney.XD.tr">
+    <display-name lang="tr">Disney XD</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/67/Image/disney_xd_70x46.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="Disney.Channel.tr">
+    <display-name lang="tr">Disney Channel</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/186/Image/disney_50x50.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/186/Image/disney_50x50.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="BOOMERANG.HD.tr">
+    <display-name lang="tr">BOOMERANG HD</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/518/Image/72x44_boomerang.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/518/Image/72x44_boomerang.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="Cartoon.Network.tr">
+    <display-name lang="tr">Cartoon Network</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/220/Image/70x46_cartoon_network.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/220/Image/70x46_cartoon_network.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="MinikaGO.tr">
+    <display-name lang="tr">MinikaGO</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/291/Image/70x46_minikago-haz2018.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/291/Image/70x46_minikago-haz2018.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="Nick.Jr..tr">
+    <display-name lang="tr">Nick Jr.</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/321/Image/70x46_nicktr.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/321/Image/70x46_nicktr.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="Nickelodeon.tr">
+    <display-name lang="tr">Nickelodeon</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/189/Image/70x46_nickelodeon.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/189/Image/70x46_nickelodeon.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="Nickelodeon.HD.tr">
+    <display-name lang="tr">Nickelodeon HD</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/351/Image/70x46_nickelodeon_hd.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/351/Image/70x46_nickelodeon_hd.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="National.Geographic.HD.tr">
+    <display-name lang="tr">National Geographic HD</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/214/Image/70x46_national_geographic_hd.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/214/Image/70x46_national_geographic_hd.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="beIN.İZ.HD.tr">
+    <display-name lang="tr">beIN İZ HD</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/159/Image/iz-70x46.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/159/Image/iz-70x46.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="BBC.EARTH.HD.tr">
+    <display-name lang="tr">BBC EARTH HD</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/513/Image/72x56_bbc_earth.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/513/Image/72x56_bbc_earth.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="Nat.Geo.Wild.HD.tr">
+    <display-name lang="tr">Nat Geo Wild HD</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/179/Image/ngwild_72x44_sub2019.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/179/Image/ngwild_72x44_sub2019.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="Yaban.TV.tr">
+    <display-name lang="tr">Yaban TV</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/532/Image/70x46_yaban_eyl2019.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/532/Image/70x46_yaban_eyl2019.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="TRT.Belgesel.HD.tr">
+    <display-name lang="tr">TRT Belgesel HD</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/487/Image/trtbelgeselhd-70x46.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/487/Image/trtbelgeselhd-70x46.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="Discovery.Channel.HD.tr">
+    <display-name lang="tr">Discovery Channel HD</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/317/Image/70x46_dsc_ekm2019.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/317/Image/70x46_dsc_ekm2019.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="Discovery.Science.HD.tr">
+    <display-name lang="tr">Discovery Science HD</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/318/Image/70x46_discovery-science_e.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/318/Image/70x46_discovery-science_e.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="CGTN.DOCUMENTARY.HD.tr">
+    <display-name lang="tr">CGTN DOCUMENTARY HD</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/524/Image/d_72x56_cgtn.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/524/Image/d_72x56_cgtn.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="beIN.BOX.OFFICE.1.HD.tr">
+    <display-name lang="tr">beIN BOX OFFICE 1 HD</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/36/Image/beinbox1-sd-70x46.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/36/Image/beinbox1-sd-70x46.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="beIN.BOX.OFFICE.2.HD.tr">
+    <display-name lang="tr">beIN BOX OFFICE 2 HD</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/37/Image/beinbox2-sd-70x46.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/37/Image/beinbox2-sd-70x46.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="beIN.BOX.OFFICE.3.HD.tr">
+    <display-name lang="tr">beIN BOX OFFICE 3 HD</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/38/Image/beinbox3-sd-70x46.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/38/Image/beinbox3-sd-70x46.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="Taraftar.HD.tr">
+    <display-name lang="tr">Taraftar HD</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/138/Image/204_2.gif" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/138/Image/204_2.gif" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="Taraftar.2.HD.tr">
+    <display-name lang="tr">Taraftar 2 HD</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/304/Image/205_2.gif" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/304/Image/205_2.gif" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="TRT1.HD.tr">
+    <display-name lang="tr">TRT1 HD</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/330/Image/70x46_trt1_hd.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/330/Image/70x46_trt1_hd.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="TRT.World.HD.tr">
+    <display-name lang="tr">TRT World HD</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/469/Image/70x46_trt_world.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/469/Image/70x46_trt_world.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="Nickelodeon.HD.tr">
+    <display-name lang="tr">Nickelodeon HD</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/333/Image/70x46_nickelodeon_hd.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/333/Image/70x46_nickelodeon_hd.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="MTV.Live.HD.tr">
+    <display-name lang="tr">MTV Live HD</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/323/Image/70x46_mtv_hd.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/323/Image/70x46_mtv_hd.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="Digiturk.4K.tr">
+    <display-name lang="tr">Digiturk 4K</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/491/Image/70x46_4k.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/491/Image/70x46_4k.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="ALEM.FM.tr">
+    <display-name lang="tr">ALEM FM</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/91/Image/70x46_alemfm.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/91/Image/70x46_alemfm.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="Best.FM.tr">
+    <display-name lang="tr">Best FM</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/419/Image/70x46_best_fm_eyl2019.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/419/Image/70x46_best_fm_eyl2019.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="Kral.Pop.Radyo.tr">
+    <display-name lang="tr">Kral Pop Radyo</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/482/Image/70x46_kralpop_radyo.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/482/Image/70x46_kralpop_radyo.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="Slow.Türk.tr">
+    <display-name lang="tr">Slow Türk</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/383/Image/70x46_slowturk.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/383/Image/70x46_slowturk.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="Show.Radyo.tr">
+    <display-name lang="tr">Show Radyo</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/379/Image/70x46_show_radyo.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/379/Image/70x46_show_radyo.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="Kral.FM.tr">
+    <display-name lang="tr">Kral FM</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/421/Image/70x46_kralfm.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/421/Image/70x46_kralfm.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="Radyo.Viva.tr">
+    <display-name lang="tr">Radyo Viva</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/380/Image/70x46_radyo_viva.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/380/Image/70x46_radyo_viva.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="Baba.Radyo.tr">
+    <display-name lang="tr">Baba Radyo</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/422/Image/70x46_baba_radyo_eyl2019.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/422/Image/70x46_baba_radyo_eyl2019.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="5+1.Concerts.tr">
+    <display-name lang="tr">5+1 Concerts</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/107/Image/radyo-kanallari-icin.png" />
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/107/Image/radyo-kanallari-icin.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="TRT.Spor.tr">
+    <display-name lang="tr">TRT Spor</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/470/Image/70x46_trt_sports_hd.png" />
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
