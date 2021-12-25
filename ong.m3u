@@ -14,5 +14,4 @@ https://livex458745.livestreamlive.xyz/a2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Kanal 7" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/ce2fa5d6-80be-4db3-88cc-493a8a3ea655.png" group-title="Turkey",Kanal 7
 https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/ce2fa5d6-80be-4db3-88cc-493a8a3ea655.png" group-title="Turkey",FX
-https://list.iptvcat.com/my_list/s/d3c33805a4b7675d307de62b9bb43341.m3u8
-
+http://103.194.169.171:8282/TR:_FX_FHD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c&
