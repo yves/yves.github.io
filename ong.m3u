@@ -13,3 +13,5 @@ http://93.157.62.180/KanalD/index.m3u8
 https://livex458745.livestreamlive.xyz/a2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Kanal 7" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/ce2fa5d6-80be-4db3-88cc-493a8a3ea655.png" group-title="Turkey",Kanal 7
 https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="blutv Nostalji" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/023ecc93-e253-430b-acd6-e01c77d6461c.png" group-title="Turkey",blutv Nostalji
+https://d1kql9eqq12ti5.cloudfront.net/out/v1/73b6ebdccff34468abfaa716e8114192/master_31.m3u8
