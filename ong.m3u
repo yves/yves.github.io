@@ -5,7 +5,7 @@ http://93.157.62.180/FoxTurk/index.m3u8
 http://93.157.62.180/ShowTV/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star TV" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/7149537c-dd50-4b7e-a042-9f7b45f4f136.png" group-title="Turkey",Star TV
 http://93.157.62.180/StarTurk/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A TV" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/0d3f32ba-3304-4397-b6e5-116d482b0731.png" group-title="Turkey",ATV
+#EXTINF:-1 tvg-id="" tvg-name="ATV" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/0d3f32ba-3304-4397-b6e5-116d482b0731.png" group-title="Turkey",ATV
 https://trkvz-live.daioncdn.net/atv/atv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Kanal D" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/1cf4d482-3dcb-4e21-b187-0f3985e80013.png" group-title="Turkey",Kanal D
 http://93.157.62.180/KanalD/index.m3u8
