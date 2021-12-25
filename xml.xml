@@ -1,4 +1,4 @@
-<tv generator-info-name="none" generator-info-url="none">
+<tv>
   <channel id="beIN.HD.tr">
     <display-name lang="tr">beIN HD</display-name>
     <icon src="http://contentlibrary.digiturk.com.tr/Channel/483/Image/72x44_beinhd.png" />
@@ -817,4 +817,4 @@
     <display-name lang="tr">TRT Spor</display-name>
     <icon src="http://contentlibrary.digiturk.com.tr/Channel/470/Image/70x46_trt_sports_hd.png" />
     <url>http://www.digiturk.com.tr</url>
-	</tv>
+</tv>
